@@ -11,7 +11,7 @@ import SwiftUI
 struct Cool_ToDo_ListApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
         }
     }
 }
