@@ -17,6 +17,7 @@
 		C6CBCAA62B721C0000AF794B /* TasksView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6CBCAA52B721C0000AF794B /* TasksView.swift */; };
 		C6CBCAAB2B72280A00AF794B /* CustomFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6CBCAAA2B72280A00AF794B /* CustomFilter.swift */; };
 		C6CBCAAD2B72283300AF794B /* CustomTaskLong.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6CBCAAC2B72283300AF794B /* CustomTaskLong.swift */; };
+		C6CBCAAF2B722E4100AF794B /* StatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6CBCAAE2B722E4100AF794B /* StatisticsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		C6CBCAA52B721C0000AF794B /* TasksView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksView.swift; sourceTree = "<group>"; };
 		C6CBCAAA2B72280A00AF794B /* CustomFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomFilter.swift; sourceTree = "<group>"; };
 		C6CBCAAC2B72283300AF794B /* CustomTaskLong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTaskLong.swift; sourceTree = "<group>"; };
+		C6CBCAAE2B722E4100AF794B /* StatisticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatisticsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				C6CBCAA72B721C2F00AF794B /* Components */,
 				C6B7D17F2B6F80C800CF38B9 /* Cool_ToDo_ListApp.swift */,
 				C6B7D1812B6F80C800CF38B9 /* LoginView.swift */,
+				C6CBCAAE2B722E4100AF794B /* StatisticsView.swift */,
 				C6CBCAA52B721C0000AF794B /* TasksView.swift */,
 				C6CBCAA32B721B6D00AF794B /* CalendarView.swift */,
 				C6CBCAA12B721B3500AF794B /* MainMenuView.swift */,
@@ -173,6 +176,7 @@
 				C6CBCAAB2B72280A00AF794B /* CustomFilter.swift in Sources */,
 				C6CBCAA42B721B6D00AF794B /* CalendarView.swift in Sources */,
 				C6B7D1802B6F80C800CF38B9 /* Cool_ToDo_ListApp.swift in Sources */,
+				C6CBCAAF2B722E4100AF794B /* StatisticsView.swift in Sources */,
 				C6CBCAAD2B72283300AF794B /* CustomTaskLong.swift in Sources */,
 				C6CBCAA62B721C0000AF794B /* TasksView.swift in Sources */,
 			);

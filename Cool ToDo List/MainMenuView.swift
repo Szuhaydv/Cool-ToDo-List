@@ -29,7 +29,7 @@ struct MainMenuView: View {
                     }
                     .tag(2)
                 
-                StatisticsView()
+                StatisticsView(totalTasks: 120, completedTasks: 94)
                     .tabItem {
                         Image(systemName: "chart.bar.fill")
                         Text("Statistics")

@@ -21,24 +21,6 @@ struct LoginView: View {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-struct StatisticsView: View {
-    var body: some View {
-        Text("Statistics View")
-    }
-}
-
-
 #Preview {
     LoginView()
 }
